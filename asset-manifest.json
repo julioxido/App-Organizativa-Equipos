@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/App-organizativa-Equipos/static/css/main.4cdb9e37.css",
+    "main.js": "/App-organizativa-Equipos/static/js/main.5683265f.js",
+    "static/js/146.27e31817.chunk.js": "/App-organizativa-Equipos/static/js/146.27e31817.chunk.js",
+    "index.html": "/App-organizativa-Equipos/index.html",
+    "main.4cdb9e37.css.map": "/App-organizativa-Equipos/static/css/main.4cdb9e37.css.map",
+    "main.5683265f.js.map": "/App-organizativa-Equipos/static/js/main.5683265f.js.map",
+    "146.27e31817.chunk.js.map": "/App-organizativa-Equipos/static/js/146.27e31817.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cdb9e37.css",
+    "static/js/main.5683265f.js"
+  ]
+}
